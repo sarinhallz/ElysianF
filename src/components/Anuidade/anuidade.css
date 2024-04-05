@@ -1,0 +1,31 @@
+.anuidade{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 70vw;
+    color: #FFF;
+}
+
+.anuidade .image img{
+    width: 30vw;
+}
+
+.anuidade .image img:hover{
+    transform: scale(1.15);
+    transition: ease-in-out .5s;
+}
+
+.anuidade .text{
+    width: 30vw;
+}
+
+.anuidade .text h2{
+    font-size: 3.8vw;
+    margin-bottom: 3vh;
+}
+
+.anuidade .text p{
+    font-size: 1.8vw;
+}

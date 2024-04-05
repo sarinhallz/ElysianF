@@ -1,7 +1,25 @@
 .container-res{
     display: flex;
+    flex-direction: column;
+    color: #FFF;
     width: 70vw;
     margin: 50px auto;
+}
+
+.titlensub h2{
+    font-size: 2.8vw;
+    margin-bottom: 2vh;
+}
+
+.titlensub p{
+    font-size: 1.5vw;
+    margin-bottom: 7vh;
+}
+
+.resources{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5vh;
 }
 
 .account,

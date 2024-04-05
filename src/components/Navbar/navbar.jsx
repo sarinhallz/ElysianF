@@ -1,17 +1,18 @@
 import "./navbar.css";
-import Logo from "../../../public/images/logo-elysian.svg";
+import Logo from "../../../public/images/logo.svg";
+import { Link } from "react-router-dom";
 
 export function Navbar() {
     return (
         <div className="menu">
             <ul className="options1">
-                <li>Fale Conosco</li>
-                <li>Investimentos</li>
+                <li><Link to="">Fale Conosco</Link></li>
+                <li><Link to="">Investimentos</Link></li>
             </ul>
-            <img src={ Logo } alt="" />
+            <Link to="/"><img src={ Logo } alt="" /></Link>
             <ul className="options2">
-                <li>Sobre nós</li>
-                <li>Minha conta</li>
+                <li><Link to="/sobre">Sobre nós</Link></li>
+                <li><Link to="">Minha conta</Link></li>
             </ul>
         </div>
     )

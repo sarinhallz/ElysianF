@@ -1,0 +1,22 @@
+.history{
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+}
+
+.history h2{
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+.history p{
+    font-size: 1.5vw;
+    max-width: 900px;
+    text-align: center;
+}
+
+.history img{
+    width: 50vw;
+    display: flex;
+    margin: 0 auto;
+}

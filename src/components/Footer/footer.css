@@ -34,3 +34,7 @@ footer {
     color: #00ffc3;
     transition: 0.5s;
 }
+
+.ft-cnt iframe{
+    margin-top: 3vh;
+}
