@@ -8,17 +8,17 @@
 .textNbtn{
     display: flex;
     flex-direction: column;
-    margin: 2vh 7.3vw;
+    margin: 2.5vh 7.3vw;
 }
 
 .text{
-    width: 90%;
+    width: 95%;
 }
 
 .text p{
     color: #FFF;
     font-size: 2.5vw;
-    margin-bottom: 3vh;
+    margin-bottom: 5vh;
 }
 
 .text span{

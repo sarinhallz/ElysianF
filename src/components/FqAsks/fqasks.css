@@ -1,0 +1,23 @@
+.fc-perguntas{
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+    margin-top: 10vh;
+}
+
+.fc-perguntas h3{
+    font-size: 2vw;
+}
+
+.fc-perguntas p{
+    width: 80vw;
+    font-size: 1.5vw;
+}
+
+.fc-perguntas h2{
+    font-size: 3vw;
+    color: #FFF;
+}

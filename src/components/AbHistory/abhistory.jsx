@@ -1,7 +1,7 @@
 import "./abhistory.css";
-import Inauguration from "../../../public/images/ab-1.svg";
-import Start from "../../../public/images/ab-2.svg";
-import Nowdays from "../../../public/images/ab-3.svg";
+import Inauguration from "/public/images/ab-1.svg";
+import Start from "/public/images/ab-2.svg";
+import Nowdays from "/public/images/ab-3.svg";
 
 export function History() {
     return(

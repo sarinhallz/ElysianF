@@ -1,5 +1,5 @@
 import "./owner.css";
-import CEO from "../../../public/images/owner.svg";
+import CEO from "/public/images/owner.svg";
 
 export function Owner() {
     return (

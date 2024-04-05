@@ -1,9 +1,9 @@
 import "./footer.css";
-import Logo from "../../../public/images/logo-complete.svg"
-import Twitter from "../../../public/images/Twitter.svg";
-import Linkedin from "../../../public/images/Linkedin.svg";
-import Instagram from "../../../public/images/Instagram.svg";
-import Facebook from "../../../public/images/Facebook.svg";
+import Logo from "/public/images/logo-complete.svg"
+import Twitter from "/public/images/Twitter.svg";
+import Linkedin from "/public/images/Linkedin.svg";
+import Instagram from "/public/images/Instagram.svg";
+import Facebook from "/public/images/Facebook.svg";
 
 export function Rodape() {
     return (

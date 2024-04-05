@@ -1,6 +1,6 @@
 import "./resources.css";
-import Account from "../../../public/images/img-acc.svg";
-import Card from "../../../public/images/img-card.svg";
+import Account from "/public/images/img-acc.svg";
+import Card from "/public/images/img-card.svg";
 
 export function Resources() {
     return (

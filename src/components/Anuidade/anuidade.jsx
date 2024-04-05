@@ -1,5 +1,5 @@
 import "./anuidade.css";
-import Zero from "../../../public/images/zero-anuidade.svg"
+import Zero from "/public/images/zero-anuidade.svg"
 
 export function Anuidade() {
     return (

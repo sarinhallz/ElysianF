@@ -1,0 +1,12 @@
+.sg-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sg-img img {
+    width: 35vw;
+    height: 100vh;
+    object-fit: cover;
+    border-radius: 0 25px 25px 0;
+}

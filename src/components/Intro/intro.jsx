@@ -1,5 +1,5 @@
 import "./intro.css";
-import Introduction from "../../../public/images/img-intro.svg";
+import Introduction from "/public/images/img-intro.svg";
 
 export function Intro(){
     return(
