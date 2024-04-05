@@ -1,0 +1,44 @@
+.container-res{
+    display: flex;
+    width: 70vw;
+    margin: 50px auto;
+}
+
+.account,
+.card{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    color: #FFF;
+}
+
+.account{
+    background: #0A403A;
+    border-radius: 15px 0 0 15px;
+}
+
+.account h2,
+.card h2{
+    font-size: 2vw;
+}
+
+.account p,
+.card p{
+    font-size: 1.3vw;
+}
+
+.account img{
+    width: 10vw;
+    margin: 10px auto;
+}
+
+.card{
+    background: #062623;
+    border-radius: 0 15px 15px 0;
+}
+
+.card img{
+    width: 18.8vw;
+    margin: 10px auto;
+}

@@ -1,0 +1,36 @@
+footer {
+    margin-top: 10vh;
+    background: #001b19;
+}
+
+.ft-container {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 60px;
+}
+
+.ft-container h4{
+    margin-bottom: 5px;
+}
+
+.ft-lgnsm img{
+    width: 13vw;
+    margin-bottom: 1.5vh;
+}
+
+.ft-logos img{
+    width: 3vw;
+    margin: 7px 6px;
+}
+
+.ft-cnt a{
+    text-decoration: none;
+    color: #0c9774;
+}
+
+.ft-cnt a:hover{
+    text-decoration: none;
+    color: #00ffc3;
+    transition: 0.5s;
+}
