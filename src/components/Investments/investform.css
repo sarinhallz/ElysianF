@@ -1,0 +1,69 @@
+.inv-forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inv-forms h2,
+.inv-forms p{
+    color: #FFF;
+    text-align: center;
+}
+
+.inv-forms h2{
+    font-size: 2.5vw;
+}
+
+.inv-forms p{
+    font-size: 1.5vw;
+}
+
+.form-invest{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    margin: 7vh auto;
+    gap: 2.5vh;
+}
+
+.form-invest h2{
+    font-size: 3vw;
+    color: #FFF;
+}
+
+.form-invest input,
+.form-invest select {
+    border: 1px solid #024637;
+    background: #FFF;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1vw;
+    margin-bottom: 1vh;
+}
+
+.form-invest input{
+    width: 25vw;
+    height: 7vh;
+}
+
+.form-invest select{
+    width: 26.6vw;
+    height: 10.6vh;
+}
+
+.form-invest #msg{
+    width: 97%;
+    height: 20vh;
+}
+
+.form-invest button{
+    padding: 2.5vh 11.5vw;
+    border-radius: 5px;
+    border: none;
+    background: #01634e;
+    color: #FFF;
+    margin-top: 2vh;
+}

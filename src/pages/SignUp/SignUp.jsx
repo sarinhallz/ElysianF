@@ -1,15 +1,20 @@
-import { SguForms } from "../../components/SignForms/signforms.jsx";
-import { SguIntro } from "../../components/SignIntro/signintro.jsx";
+/* importando componentes utilizados para a construção da página */
+import { SguIntro } from "../../components/SignImg/signimg.jsx";
+import { SguForms } from "../../components/SignForms/signform.jsx";
+import "./signup.css";
 
-export function SignUp(){
-    return(
+// componente funcional que representa a página de cadastro
+export function Cadastro() {
+    return (
         <main className="content">
-            <Navbar />
+            {/* container para o conteúdo de cadastro */}
             <div className="sg-container">
+                {/* componente para a introdução ou imagem relacionada ao cadastro */}
                 <SguIntro />
+
+                {/* componente para o formulário de cadastro */}
                 <SguForms />
             </div>
-            <Rodape />
         </main>
     )
 }

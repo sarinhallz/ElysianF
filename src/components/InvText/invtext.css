@@ -1,0 +1,32 @@
+.inv-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh 15vw;
+    gap: 3vh;
+}
+
+.inv-text h2{
+    font-size: 2.5vw;
+}
+
+.inv-text p{
+    font-size: 1.5vw;
+}
+
+.inv-text h2,
+.inv-text p{
+    color: #FFF;
+    text-align: center;
+}
+
+.inv-text img{
+    width: 60vw;
+    margin: 5vh 0;
+}
+
+.renda-var p,
+.renda-fix p{
+    color: #00ad88;
+}

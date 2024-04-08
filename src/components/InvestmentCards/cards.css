@@ -1,0 +1,44 @@
+.createInv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh auto;
+}
+
+.title h2,
+.title p{
+    color: #FFF;
+    text-align: center;
+}
+
+.title h2{
+    font-size: 2.5vw;
+}
+
+.title p{
+    font-size: 1.5vw;
+}
+
+.invcards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 5vh 10vw;
+    gap: 2vw;
+}
+
+.invcard{
+    background: #B4BEBF;
+    border-radius: 15px;
+    width: 25vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1vh 2vw;
+}
+
+.invcard:hover{
+    transform: scale(1.1);
+    transition: .5s ease;
+}

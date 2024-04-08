@@ -1,1 +1,188 @@
-{}
+{
+  "users": [
+    {
+      "id": "0665",
+      "name": "Sarah Cruz",
+      "rg": "24.681.050-6",
+      "cpf": "410.617.908-35",
+      "tel": "(11) 98928-8883",
+      "endereco": "Rua Firmino Pires, 171, Rio Cotia, Cotia-SP",
+      "email": "sarinha.studiesllz@gmail.com",
+      "password": "Sp951025#",
+      "confpassword": "Sp951025#",
+      "createAt": "2024-04-08T01:11:05.474Z"
+    }
+  ],
+  "investments": [
+    {
+      "id": "dae9",
+      "nameInvestor": "Amanda",
+      "email": "mands0@hotmail.com",
+      "tel": "(11) 97763-4409",
+      "typeInvest": "tesouroDireto",
+      "valorInvest": "10000",
+      "term": "longo",
+      "risk": "muitoBaixo",
+      "createdAt": "2024-04-08T01:25:56.247Z"
+    },
+    {
+      "id": "f070",
+      "nameInvestor": "Alice",
+      "email": "wonderland@gmail.com",
+      "tel": "(11) 93838-3833",
+      "typeInvest": "cdb",
+      "valorInvest": "25000",
+      "term": "longo",
+      "risk": "muitoAlto",
+      "createdAt": "2024-04-08T01:33:01.794Z"
+    },
+    {
+      "id": "c412",
+      "nameInvestor": "Amanda",
+      "email": "hawid92772@tenjb.com",
+      "tel": "(82) 70602-8113",
+      "typeInvest": "fundoInvestimento",
+      "valorInvest": "34900",
+      "term": "curto",
+      "risk": "muitoAlto",
+      "createdAt": "2024-04-08T01:34:54.881Z"
+    },
+    {
+      "id": "052a",
+      "nameInvestor": "Alice",
+      "email": "wonderland@gmail.com",
+      "tel": "(11) 93838-3833",
+      "typeInvest": "cdb",
+      "valorInvest": "2340",
+      "term": "medio",
+      "risk": "baixo",
+      "createdAt": "2024-04-08T01:48:13.320Z"
+    },
+    {
+      "id": "f382",
+      "nameInvestor": "Nelson",
+      "email": "madelinanelas@yahoo.com",
+      "tel": "(82) 70602-8113",
+      "typeInvest": "tesouroDireto",
+      "valorInvest": "10000",
+      "term": "longo",
+      "risk": "medio",
+      "createdAt": "2024-04-08T01:48:53.260Z"
+    },
+    {
+      "id": "411c",
+      "nameInvestor": "Felicia ",
+      "email": "felfel@gmail.com",
+      "tel": "(11) 98928-8883",
+      "typeInvest": "lca",
+      "valorInvest": "24000",
+      "term": "curto",
+      "risk": "muitoAlto",
+      "createdAt": "2024-04-08T01:49:23.453Z"
+    },
+    {
+      "id": "40b1",
+      "nameInvestor": "Nel",
+      "email": "",
+      "tel": "",
+      "typeInvest": "",
+      "valorInvest": "",
+      "term": "",
+      "risk": "",
+      "createdAt": "2024-04-08T01:49:38.290Z"
+    },
+    {
+      "id": "54fa",
+      "nameInvestor": "Aline",
+      "email": "linemc@gmail.com",
+      "tel": "(11) 27370-8404",
+      "typeInvest": "fundoInvestimento",
+      "valorInvest": "144991",
+      "term": "longo",
+      "risk": "muitoAlto",
+      "createdAt": "2024-04-08T01:50:09.594Z"
+    },
+    {
+      "id": "6d14",
+      "nameInvestor": "Henry",
+      "email": "hawid92772@tenjb.com",
+      "tel": "(11) 93838-3833",
+      "typeInvest": "cdb",
+      "valorInvest": "300000",
+      "term": "longo",
+      "risk": "medio",
+      "createdAt": "2024-04-08T01:57:26.867Z"
+    },
+    {
+      "id": "fd29",
+      "nameInvestor": "Henry",
+      "email": "hawid92772@tenjb.com",
+      "tel": "(11) 98478-4897",
+      "typeInvest": "fundoInvestimento",
+      "valorInvest": "450000",
+      "term": "longo",
+      "risk": "muitoAlto",
+      "createdAt": "2024-04-08T02:00:42.424Z"
+    },
+    {
+      "id": "5ec6",
+      "nameInvestor": "Alex",
+      "email": "alex@outlook.com",
+      "tel": "(82) 70602-8113",
+      "typeInvest": "tesouroDireto",
+      "valorInvest": "15000",
+      "term": "longo",
+      "risk": "muitoBaixo",
+      "createdAt": "2024-04-08T02:09:01.770Z"
+    },
+    {
+      "id": "fb65",
+      "nameInvestor": "Wanda",
+      "email": "wandavision@gmail.com",
+      "tel": "(11) 93838-3833",
+      "typeInvest": "cdb",
+      "valorInvest": "2000",
+      "term": "medio",
+      "risk": "medio",
+      "createdAt": "2024-04-08T02:09:53.925Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "70e5",
+      "name": "",
+      "email": "",
+      "tel": "",
+      "tema": "",
+      "msg": "",
+      "createdAt": "2024-04-08T01:23:38.174Z"
+    },
+    {
+      "id": "2f08",
+      "name": "",
+      "email": "",
+      "tel": "",
+      "tema": "",
+      "msg": "",
+      "createdAt": "2024-04-08T01:23:40.254Z"
+    },
+    {
+      "id": "22d5",
+      "name": "",
+      "email": "",
+      "tel": "",
+      "tema": "",
+      "msg": "",
+      "createdAt": "2024-04-08T01:23:43.742Z"
+    },
+    {
+      "id": "e8bf",
+      "name": "Sarah Cruz",
+      "email": "sarinha.studiesllz@gmail.com",
+      "tel": "(11) 98928-8883",
+      "tema": "opt1",
+      "msg": "Preciso de ajuda com a criação de um investimento rentável e eficiente.",
+      "createdAt": "2024-04-08T01:25:18.134Z"
+    }
+  ]
+}
