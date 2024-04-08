@@ -10,8 +10,8 @@ export function Intro(){
             <div className="textNbtn">
                 {/* seção de texto */}
                 <div className="text">
-                    <p>na <span>elysian financials</span>, elevamos sua prosperidade e segurança financeira para um novo patamar.</p>
-                    <p>junte-se a nós e descubra uma nova era de <span>excelência financeira</span>.</p>
+                    <p>No <span style={{fontWeight:"bold"}}>Elysian Financials</span>, elevamos sua prosperidade e segurança financeira para um novo patamar.</p>
+                    <p>Junte-se a nós e descubra uma nova era de <span style={{fontWeight:"bold"}}>excelência financeira</span>.</p>
                 </div>
                 {/* botão para criar uma conta */}
                 <div className="btn-create">

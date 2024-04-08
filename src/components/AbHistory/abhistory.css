@@ -1,7 +1,8 @@
 .history{
     display: flex;
     flex-direction: column;
-    gap: 3vh;
+    gap: 4vh;
+    margin: 15vh 0;
 }
 
 .history h2{
