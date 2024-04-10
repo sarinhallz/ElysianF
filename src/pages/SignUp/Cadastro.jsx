@@ -1,7 +1,7 @@
 /* importando componentes utilizados para a construção da página */
 import { SguIntro } from "../../components/SignImg/signimg.jsx";
 import { SguForms } from "../../components/SignForms/signform.jsx";
-import "./signup.css";
+import "./Cadastro.css";
 
 // componente funcional que representa a página de cadastro
 export function Cadastro() {

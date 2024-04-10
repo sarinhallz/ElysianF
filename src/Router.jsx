@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { AboutUs } from "./pages/About/About";
 import { FaleConosco } from "./pages/Contact";
-import { Cadastro } from "./pages/SignUp/signup.jsx";
+import { Cadastro } from "./pages/SignUp/Cadastro.jsx";
 import { Investments } from "./pages/Investiments.jsx";
 
 // define o componente Router, responsável por configurar as rotas da aplicação
